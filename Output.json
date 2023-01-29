@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Holly Ellyatt, Amanda Macias",
+            "title": "Ukraine war live updates: Latest news on Russia and the war in Ukraine - CNBC",
+            "description": "There are conflicting reports about whether the strategically important town of Soledar in Donetsk in eastern Ukraine has been captured by Russian forces.",
+            "url": "https://www.cnbc.com/2023/01/11/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107176999-1673423798066-gettyimages-1246072393-AA_08012023_1016878.jpeg?v=1673425160&w=1920&h=1080",
+            "publishedAt": "2023-01-11T16:33:00Z",
+            "content": "The best fighters from Russia's paramilitary group, known as the Wagner Group, have been deployed to fight in Soledar in Donetsk in eastern Ukraine, where Russian forces have made tactical gains in r… [+2045 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Patrick Hipes",
+            "title": "SAG Awards Nominations: The Complete List - Deadline",
+            "description": "The Screen Actors Guild unveiled nominations Wednesday for its 29th annual SAG Awards as the movie awards season arrives full-steam, coming the same week as last night’s Golden Globes and Sun…",
+            "url": "https://deadline.com/2023/01/2023-sag-awards-nominations-list-film-tv-nominees-screen-actors-guild-1235216790/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/04/SAG-Awards-Logo.jpg?w=1000",
+            "publishedAt": "2023-01-11T15:16:00Z",
+            "content": "The Screen Actors Guild unveiled nominations Wednesday for its 29th annual SAG Awards as the movie awards season arrives full-steam, coming the same week as last night’s Golden Globes and Sunday’s Cr… [+11352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vulture"
+            },
+            "author": "Zoe Guy",
+            "title": "Tom Cruise Misses Shelly Miscavige Joke at Golden Globes - Vulture",
+            "description": "At the 2023 Golden Globes host Jerrod Carmichael joked that “these Golden Globe Awards that Tom Cruise returned” should be exchanged  “for the safe return of Shelly Miscavige,” wife of a Scientology leader who hasn’t been seen in public since 2007",
+            "url": "http://www.vulture.com/2023/01/golden-globes-2023-tom-cruise-shelly-miscavige-scientology.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/ffb/5a4/df92aed49d1a20dd82027bd7fb29b3af5d-gg-jerrod-carmichael-.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-01-11T14:30:00Z",
+            "content": "Jerrod Carmichael has an idea. Backstage, I found these three Golden Globe Awards that Tom Cruise returned, the comedian began at this years Golden Globes ceremony, awkwardly cradling the honors in h… [+1825 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Oliver O'Connell",
+            "title": "California storms – live: Flash flood warning in San Francisco after Montecito and Santa Barbara evacuations - The Independent",
+            "description": "Succession of storms continue to batter southern and central California",
+            "url": "https://www.independent.co.uk/climate-change/santa-barbara-flooding-storm-tracker-california-latest-b2259950.html",
+            "urlToImage": "https://static.independent.co.uk/2023/01/10/14/AFP_336R6XL.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-01-11T08:15:40Z",
+            "content": "Storm 'more intense' and stayed 'much longer', says fire department as more evacuations are ordered\r\nMore evacuations have been ordered in counties as the storm warning remains in Northern California… [+1148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Nina Golgowski",
+            "title": "'COVID Isn't Over': Here's What Experts Expect The COVID-19 Pandemic To Be Like This Year - HuffPost",
+            "description": "With the rise of highly transmissible variants including XBB, experts warn COVID is far from over. But there are new tools to help and more research is underway.",
+            "url": "https://www.huffpost.com/entry/covid-2023-experts-vaccine-treatment_n_6388f1d6e4b0d17409600631",
+            "urlToImage": "https://img.huffingtonpost.com/asset/63bc44902400003b003789d1.jpg?cache=YxQD0zIH0y&ops=1200_630",
+            "publishedAt": "2023-01-10T10:45:01Z",
+            "content": "Its been three years since the novel coronavirus first emerged, and while a sense of normalcy may have returned for many people, experts say the pandemic isnt over yet.\r\nCOVID-19 cases and hospitaliz… [+17142 chars]"
+        }
+    ]
+}
